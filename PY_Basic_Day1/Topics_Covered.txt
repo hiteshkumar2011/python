@@ -1,0 +1,6 @@
+We will cover following Topics in Day -1
+print statement 
+input function 
+variable
+quiz exercise 
+Band Name Generator program 
