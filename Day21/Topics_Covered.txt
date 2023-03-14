@@ -1,0 +1,3 @@
+## Inheritance
+## List Slicing, for tuple also Slicing works the same way 
+## Finish remaining part of snake game -- pending from day#20
